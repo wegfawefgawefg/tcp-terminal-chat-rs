@@ -1,0 +1,4 @@
+[alias]
+# Convenience: `cargo b client` / `cargo b server`
+b = "run --bin"
+
